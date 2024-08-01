@@ -1,0 +1,41 @@
+cd folder name --> npm init
+nodemon --> npm i nodemon
+express --> npm i express
+npm i dotenv --> config 
+
+Routers and Controllers
+routers-->products.js/productController
+Order-->order.js/orderController
+
+Testing API routes with Thunderclient
+thunder client extension use API test
+
+Creating product model
+Building get products api
+building get single product apis --> params
+
+create react project
+Breaking pages to components
+Integrating get products api
+fixing cors error --> npm i cors
+
+showing product cart details
+Adding search routes to api
+Implementing product serch
+creating product detail page
+Add to functionality
+showing toast message
+inc and dec cart item
+creating cart page
+Integrating place order api
+
+
+
+
+methods..
+--------
+use
+params
+**reduce total --> array to single value
+**access control allow origin
+acc value
